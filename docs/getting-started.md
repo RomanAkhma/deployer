@@ -71,7 +71,7 @@ Current dir: /var/www/domain.com
 ✔ Ok
 ```
 
-Now let's prepare for our first deploy. You need to configure parameters such as `repository`, `shared_files,` and others:
+Now let's prepare for our first deploy. You need to configure parameters such as `repository`, `shared_files`, and others:
    
 ```php
 set('repository', 'git@domain.com:username/repository.git');
